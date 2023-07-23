@@ -2,7 +2,7 @@ import React, { useCallback, useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import pic from "./hell.png";
 const Homepage = () => {
-  const [value,setValue]=useState();
+  const [value,setValue]=useState('');
   const navigate=useNavigate();
   const handleJoin=useCallback(()=>{
     navigate(`/room/${value}`)
@@ -57,7 +57,7 @@ const Homepage = () => {
                         <div className="form-outline mb-4">
                           <input
                           value={value}
-                          onChange={(e)=>setValue(e.target.value)}
+                           onChange={e => setValue(e.target.value)}
                             type="text"
                             id="form2Example17"
                             className="form-control form-control-lg"
