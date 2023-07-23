@@ -1,70 +1,23 @@
-# Getting Started with Create React App
+# Echo Verse
+"Echo Verse" is an innovative and dynamic online video calling app that redefines the way we connect with our loved ones and colleagues. Powered by cutting-edge technologies like React.js and Zegocloud, this platform offers seamless individual and group video calling experiences with exceptional audio and video quality.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+With "Echo Verse," users can effortlessly initiate and join video calls, whether it's a one-on-one conversation or a larger group meeting. The intuitive user interface ensures a user-friendly experience, making it easy for anyone to start a call with just a few clicks.
 
-## Available Scripts
+Key Features:
+1. Crystal-Clear Video and Audio: Enjoy high-definition video calls with clear audio, ensuring every conversation is immersive and engaging.
 
-In the project directory, you can run:
+2. Group Video Calls: Connect with multiple participants simultaneously, making it ideal for team meetings, virtual events, and family gatherings.
 
-### `npm start`
+3. Secure and Private: "Echo Verse" prioritizes user privacy and data security, ensuring all conversations are encrypted for peace of mind.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+4. Real-Time Chat: Stay connected during video calls with real-time text chat, allowing users to share links, files, and important information.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+5. Screen Sharing: Collaborate effectively by sharing your screen during calls, making presentations and demonstrations seamless.
 
-### `npm test`
+6. Customizable Interface: Personalize your video calling experience with customizable layouts, themes, and profile settings.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+7. Easy Room Creation: Create unique room IDs for quick access and sharing, making it simple to invite others to join your calls.
 
-### `npm run build`
+8. Cross-Platform Compatibility: "Echo Verse" works flawlessly on desktops, laptops, tablets, and mobile devices, ensuring access from anywhere, anytime.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Experience the future of video communication with "Echo Verse." Whether you're catching up with friends, collaborating with colleagues, or hosting virtual events, our platform offers a delightful and feature-rich video calling experience that brings people together, no matter the distance. Say goodbye to choppy calls and hello to seamless connections with "Echo Verse" – your go-to choice for exceptional online video calling.
