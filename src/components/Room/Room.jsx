@@ -15,7 +15,7 @@ const Room = () => {
         sharedLinks: [
             {
               name: 'Copy Link',
-              url:`http://localhost:3000/room/${roomID}`,
+              url:`https://echoverse.netlify.app/room/${roomID}`,
             },
           ],
         scenario:{
